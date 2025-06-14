@@ -12,6 +12,7 @@ This project is a monorepo on NodeJS + Express & React, so you can find out whic
 * Launch Docker container with MongoDB with `docker compose up -d`
 * Run seeds with `npm run seed`
 * Start server with `npm run start`
+* Will need a .env to run the project, ask to project owner
 
 ## Frontend
 * Clone the repo
